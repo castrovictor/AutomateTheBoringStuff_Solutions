@@ -1,0 +1,188 @@
+1548611795860	geckodriver	INFO	geckodriver 0.18.0
+1548611795863	geckodriver	INFO	Listening on 127.0.0.1:35587
+1548611796965	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1548611797297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548611797297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548611797455	Marionette	DEBUG	Received observer notification profile-after-change
+1548611797718	Marionette	DEBUG	Received observer notification command-line-startup
+1548611797718	Marionette	DEBUG	Received observer notification nsPref:changed
+1548611797718	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+
+(firefox:5044): Gtk-WARNING **: 18:56:37.752: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5044): Gtk-WARNING **: 18:56:37.752: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548611798341	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1548611799299	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1548611799299	Marionette	DEBUG	Waiting for delayed startup...
+1548611799405	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1548611799405	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1548611799406	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1548611799406	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1548611799407	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1548611799407	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1548611799407	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1548611799407	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1548611799407	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1548611799407	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1548611799444	Marionette	INFO	Listening on port 38773
+1548611799444	Marionette	DEBUG	Remote service is active
+1548611799478	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:38160
+1548611799480	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1548611799480	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:236:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1548611799520	Marionette	DEBUG	Closed connection 0
+1548612047723	geckodriver	INFO	geckodriver 0.18.0
+1548612047727	geckodriver	INFO	Listening on 127.0.0.1:36405
+1548612048828	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1548612049158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548612049158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548612049315	Marionette	DEBUG	Received observer notification profile-after-change
+1548612049603	Marionette	DEBUG	Received observer notification command-line-startup
+1548612049603	Marionette	DEBUG	Received observer notification nsPref:changed
+1548612049603	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+
+(firefox:5588): Gtk-WARNING **: 19:00:49.637: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5588): Gtk-WARNING **: 19:00:49.637: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548612050234	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1548612051217	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1548612051217	Marionette	DEBUG	Waiting for delayed startup...
+1548612051328	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1548612051328	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1548612051329	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1548612051329	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1548612051330	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1548612051330	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1548612051330	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1548612051330	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1548612051330	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1548612051330	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1548612051367	Marionette	INFO	Listening on port 45051
+1548612051367	Marionette	DEBUG	Remote service is active
+1548612051448	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:38432
+1548612051450	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1548612051452	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:236:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1548612051503	Marionette	DEBUG	Closed connection 0
+[Parent 5588, Gecko_IOThread] WARNING: pipe error (77): Conexión reinicializada por la máquina remota: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 5588, Gecko_IOThread] WARNING: pipe error (83): Conexión reinicializada por la máquina remota: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548612054975	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1548612054975	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1548612054975	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1548612054975	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1548612054975	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1548612054975	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1548612054975	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1548612054976	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1548612054976	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1548612054976	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1548612054976	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1548612054976	Marionette	INFO	Stopped listening on port 45051
+1548612054977	Marionette	DEBUG	Remote service is inactive
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548612293640	geckodriver	INFO	geckodriver 0.18.0
+1548612293646	geckodriver	INFO	Listening on 127.0.0.1:59651
+1548612294756	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1548612295098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548612295098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548612295260	Marionette	DEBUG	Received observer notification profile-after-change
+1548612295609	Marionette	DEBUG	Received observer notification command-line-startup
+1548612295609	Marionette	DEBUG	Received observer notification nsPref:changed
+1548612295609	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+
+(firefox:6004): Gtk-WARNING **: 19:04:55.644: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6004): Gtk-WARNING **: 19:04:55.644: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548612296227	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1548612297247	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1548612297247	Marionette	DEBUG	Waiting for delayed startup...
+1548612297360	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1548612297361	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1548612297361	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1548612297361	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1548612297362	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1548612297362	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1548612297362	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1548612297362	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1548612297362	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1548612297363	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1548612297400	Marionette	INFO	Listening on port 39323
+1548612297401	Marionette	DEBUG	Remote service is active
+1548612297487	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:55210
+1548612297500	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1548612297500	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:236:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1548612321199	Marionette	DEBUG	Closed connection 0
+[Parent 5044, Gecko_IOThread] WARNING: pipe error (83): Conexión reinicializada por la máquina remota: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548612419928	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1548612419928	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1548612419928	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1548612419928	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1548612419928	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1548612419928	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1548612419928	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1548612419929	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1548612419929	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1548612419930	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1548612419930	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1548612419931	Marionette	INFO	Stopped listening on port 38773
+1548612419931	Marionette	DEBUG	Remote service is inactive
+[Parent 6004, Gecko_IOThread] WARNING: pipe error (67): Conexión reinicializada por la máquina remota: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 6004, Gecko_IOThread] WARNING: pipe error (77): Conexión reinicializada por la máquina remota: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548612420984	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1548612420984	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1548612420984	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1548612420984	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1548612420984	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1548612420985	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1548612420985	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1548612420985	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1548612420985	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1548612420985	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1548612420986	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1548612420986	Marionette	INFO	Stopped listening on port 39323
+1548612420986	Marionette	DEBUG	Remote service is inactive
+1548613520744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0wBFieDexSOj"
+1548613521472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548613521472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:2783): Gtk-WARNING **: 19:25:22.040: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2783): Gtk-WARNING **: 19:25:22.040: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548613524291	Marionette	INFO	Listening on port 43593
+1548613524372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+[Parent 2783, Gecko_IOThread] WARNING: pipe error (71): Conexión reinicializada por la máquina remota: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 2783, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548613537722	Marionette	INFO	Stopped listening on port 43593
+1548613704031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WPajPY40HWPk"
+1548613704368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548613704370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:3613): Gtk-WARNING **: 19:28:24.802: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3613): Gtk-WARNING **: 19:28:24.802: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548613706544	Marionette	INFO	Listening on port 34239
+1548613706641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1548613803441	Marionette	INFO	Stopped listening on port 34239
+1548616262946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1a67uJPPIKL2"
+1548616263275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548616263275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10930): Gtk-WARNING **: 20:11:03.785: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10930): Gtk-WARNING **: 20:11:03.785: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548616265536	Marionette	INFO	Listening on port 42275
+1548616265557	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11118): dconf-WARNING **: 20:11:09.133: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permiso denegado
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10930, Gecko_IOThread] WARNING: pipe error (79): Conexión reinicializada por la máquina remota: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548616279273	Marionette	INFO	Stopped listening on port 42275
