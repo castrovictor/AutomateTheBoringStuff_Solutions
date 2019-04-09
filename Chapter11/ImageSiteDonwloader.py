@@ -31,6 +31,7 @@ htmlElem = browser.find_element_by_tag_name('html')
 #Load at least nImg images
 pics = browser.find_elements_by_class_name("overlay")
 while len(pics) < nImg:
+    print("Current pics fetched: " + str(len(pics)))
     time.sleep(5)
     if(check_load_button()):
         button = browser.find_element_by_class_name('alt')
@@ -56,16 +57,15 @@ for elem in pics:
     except Exception as exc:
         print("Problem with current img, skipping to next one")
         continue
-
+   
     soup = bs4.BeautifulSoup(res.text, features = "html.parser")
-    #Find img src by class
+    #Find img src by class    
     imgHtml = soup.find_all("img", class_="main-photo is-hidden")
     if imgHtml == []:
         print('Could not find the image, skipping...')
     else:
-        imgUrl = imgHtml[0].get('src')
-        imgUrl = 'https:' + imgUrl
-        #print("Getting " + imgUrl)
+        imgUrl = imgHtml[0].get('src')       
+        print("Getting " + imgUrl)
         res = requests.get(imgUrl)
 
         try:
